@@ -1,0 +1,142 @@
+**** Enrichir ses activités pédagogique avec le numérique.
+
+1. définir les usages du numérique en formation
+2. Identifier l'impact du numérique sur les modalités de formation et les compétences du formateur.
+3. Enrichir ses informations avec les outils numériques adaptés.
+4. Évaluer ses compétences et ses pratiques.
+5. Évaluer ses acquis sur le module.
+
+
+*** Définir les usages du numérique en formation - concept
+En numérique on des objets des vidéprojecteurs, ordinateurs, tablettes, et.
+Des supports tels que des diaporamas, des vidéos, des supports PDF...
+Des activités de type quiz, visioconférence, forums...
+Des plates-formes variées : une plate-forme coopérative, un MOOC, des espaces collaboratifs...
+Les aspects de cette richesse sont à clarifier, Afin d' aider le formateur à s'emparer de ces outils, les possibilités selon les besoins des stagiaires.
+
+Activité numérique ne sera un rapport qu'avec le contenu. Par exemple, pour aborder du contenu on peut utiliser un quiz, un site, une vidéo...
+!médiatisation : mais il peut aussi créer du contenu, par exemple un diaporama, Un logiciel pour créer des quizz, Pour les plus avancés un logiciel de médiatisation.
+
+** Qu'elle place du numérique dans la formation et qu'est-ce qu'il permet.
+On peut former au numérique mais, pour le plus grand nombre de formateurs on va former grâce au numérique ou avec le numérique.
+Pourquoi intégrer du numérique ?
+
+
+- La médiatisation revient aux documents et aux ressources numériques ou médiatisés.
+- L'intéractivité Peut-être passise, si l'apprenant lit des contenu ou active si il répond à un quizz, par exemple.
+
+Le numérique peut également faciliter l'intéraction. L'interaction c'est la relation entre les personnes, c'est-à-dire entre le formateur et les participants mais également entre les participants.
+
+ Cette interaction peut être synchrone si tous les participants communiquent en même temps par visioconférence ou asynchrone si les participants communique de manière décalée par un forum.
+
+Les interactions sont possible entre le formateur et un participant pour individualisé, motivé, accompagner ou entre participants pour échanger sur un sujet, produire à plusieurs.
+
+
+Qu'est-ce que l'interactivité ?
+- Passive / active :
+L'interactivité est la relation entre le participant et les contenus, par l'intermédiaire d'une machine.
+Cette interactivité peut être passive si il lis des contenus et si il regarde une vidéo
+- Type :
+  Plusieurs types d'interactivité existe pour. Par exemple l'évaluation des tests en ligne pour voir où j'en suis.
+  Le positionnement par un questionnaire ou un sondage pour donner mon avis.
+  Le guidage si les choix que j'effectue dans une ressource qui oriente le parcours de ma formation.
+- Facilitateur de communication :
+  Le numérique peut également favoriser l'intéraction. l'interaction et la relation entre les personnes, c'est-à-dire entre les participants et les formateurs, Mais également entre les participants.
+- Synchrone / Asynchrone
+  C'est interaction peut être synchrone c'est tous les utilisateurs communique en même temps Par visioconférence ou Asynchrone si les participants communique par Forum, de maniere decalée.
+- Facilitateur d'autonomie :
+  Le numérique peut faciliter le travail autonome( Rappels automatiques d'une date butoir) et favoriser les échanges et le travail entre stagiaires sur un forum ou un outil d'écriture collaboratif.
+- Possibilités
+Plusieurs interactions sont possibles :
+  entre le formateur et l'apprenant pour individualiser, motiver, accompagner ou entre participants pour écanger sur un sujet, produire à plusieurs.
+- Interactivité favorise L'autonomie et l'appropriation à son rythme et c'est un vrai bénéfice pour les participants.
+
+••••••••••• Alerte
+- Interactivité favorise L'autonomie et l'appropriation à son rythme et c'est un vrai bénéfice pour les participants.
+Mais ça peut aussi parfois renforcer le sentiment d'isolement ou d'une formation déshumanisée si l'apprenant est seul fasse à la machine.
+- L'interaction comme dans le présentiel est dépendante des Relation humaines et varie en fonction d'appartenance à un groupe ou de rejet du groupe, de l'organisation du travail...
+
+C'est ynchrone(communique en m temps) en visioconférence ou asynchrone si on communique de manière décalée, il favorise la relation entre les personnes
+
+****Syntèse :
+On peut utiliser le triangle équilatéral de Houssaye pour syntétiser.
+
+•••• Le numérique
+Selon les Canadiens, le numérique s'exprime à travers 3 compétences :
+utiliser
+comprendre : C'est la pièce maîtresse - C'est acquérir des compétences pour saisir, mettre en contexte et évaluer avec circonspection les médias numériques.
+créer : Produire du contenu et Communiquer efficacement En utilisant divers outils et médias numériques.
+Formateur + Contenus(savoir) + Apprenants(participants)
+F + C(S) = médiatisation qui renvoie aux ressources numériques ou médiatisés,
+F + A(plusieurs)    = L’interaction est la relation entre les personnes, visio, automatisation de date butoir, peut-être individualisé ou en groupe, asynchrone / synchrone.
+A + C(s) = Intéractivité; évaluationp; posisionnement; guidage
+L’interactivité est la relation entre le participant et les contenus par l’intermédiaire d’une machine. Elle est passive ou active.
+
+Témoignage de 3 formateurs
+- F en mathématique
+Le numérique est utilisé en messagerie, internet. Elle a trouvé des outils pour la f
+- maitre de conférence spécialiste en logiciels libres
+- Inspecteur de l'éducation nationnale
+Consseil sur la politique du numérique,
+
+Les outils
+https://app.pix.fr/accueil
+Site grand public pour valoriser les connaissances générales du numérique.
+Ce projet s'appui sur un cadre de référence européen appelé DIGCOMP Qui a identifié cinq domaines de compétences numériques.
+1. l'information des données
+2. Communications et collaborations
+3. Créations de contenus
+4. Protection et sécurité
+5. Aspects techniques
+
+
+•••••• Terminologie
+- ATAWAD (Any Time Capacité d'un usager en situation de mobilité à se connecter à AnyWhere Any Device) / Mobiquité
+Capacité d'un usager en situation de mobilité à se connecter à un réseau sans contrainte de temps, de localisation, ou de terminal.
+
+- Big data :
+"Mégadonnées / Données massives", Collecte d’un volume important de données analysées pour en tirer des informations utiles : analyse d’opinions ou de tendances, épidémiologie, lutte contre la criminalité, sécurité...
+
+- Blended-Learning / Formation hybride / Apprentissage combiné :
+Dispositif d'apprentissage qui repose sur l'association de plusieurs modes de formation, en présence d'un enseignant ou à distance. La formation peut être dispensée en ligne ou hors ligne, de manière individuelle ou collective. L'enseignement inversé est un exemple d'apprentissage combiné.
+
+- BYOD :
+Bring Your Own Device / Apportez Vos Equipements Personnels, smartphone, ordinateur portable, tablette électronique
+
+- Carte heuristique-mentale / Mindmap :
+Schéma permettant de mettre en évidence les liens sémantiques ou hiérarchiques entre différentes idées. Sa forma arborescente, avec une idée centrale, facilite la mémorisation
+
+- Chat :
+Messagerie instantanée (aussi appel  clavardage)
+
+- Enseignement inversé :
+
+- Classe inversée / Flipped Classroom :
+Mode d'apprentissage dans lequel apprenant étudie, de manière autonome, la partie notionnelle du cours en amont de sa phase dirigée, consacrée pour l'essentiel à des exercices d'application menés par le formateur.
+
+- social learning :
+"Apprentissage par les Réseaux"
+Apprentissage par les réseaux. Mode d'acquisition et de partage de connaissances et de compétences, qui se pratique en dehors d'un cadre institutionnel et repose sur l'utilisation d'outils collaboratifs offerts par l'internet et les réseaux sociaux.
+
+- Blend learning :
+- Cloud / Cloud computing = Traite, stocke, partage de l'information, des fichiers sur un serveur partagé, iCloud est un cloud.
+
+- Serious game :
+Désigne des jeux à visés pédagogiques
+
+- TIC(E):
+"Technologies de l'Information et de la Communication (pour l'Enseignement)"
+Outils et produits numériques pouvant  très utilisés dans le cadre de l'éducation et de l'enseignement
+
+- SPOC :
+"Small private online course"
+Formation accessible à un nombre limité de participants, dispensée dans l'internet par des établissements d'enseignement, des entreprises, des organismes ou des particuliers.
+
+- CLAR :
+"Cours en ligne d'accès restreint", voir SPOC
+
+- TBI : tableau blanc intéractif - https://shop.speechi.net/fr/tbi-mobile-ebeam-edge-/264-ebeam-edge-wireless.html
+- TNI :
+- WebTV : désigne la diffusion et la réception, Des signaux vidéo par une interfaces Web, Comme YouTube par exemple.
+
+
