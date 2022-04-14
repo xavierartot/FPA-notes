@@ -1,0 +1,13 @@
+*****
+Il y'a les secteurs et les domaines, ils sont informatique, management, soit et les domaines management, formation.
+
+apres midi
+- Story
+- Telling
+- FPA
+
+3 outils d'evalualion FPA :
+- qcm
+- fiches outils
+- mise en situation (MES => APP)
+
