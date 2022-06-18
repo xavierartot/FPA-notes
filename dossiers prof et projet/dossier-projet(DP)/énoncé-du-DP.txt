@@ -1,0 +1,11 @@
+Remplacer le texte ci-dessous, qui doit être dans le dossier de projet.
+Ajouter des compétences se trouvant dans l’exemple du CCP choisi.
+Exemple : À parti du SPD que j’ai élaboré pour…
+J’utilise la règle des 3C,  je démarre la séance
+
+obj operationnel
+pour le FPA : formé des adultes
+obj pedago : a l'issue de la seance, ...identifier les 3C
+
+
+

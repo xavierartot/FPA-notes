@@ -1,0 +1,66 @@
+Dossier Projet :
+Chapitre 1 : -> mises en pratiques -> charpitre 3
+>>> APP / animation et SPD
+
+Chapitre 2 -> à chaque fin d'entretien faire 1 APP
+
+Chapitre 2 -> Situation choisi à chaque fin d'entretien faire 1 APP
+
+Chapitre 1
+********************************* Sommaire
+••••••• Introduction
+Démarche personnelle
+présentation du centre de formation
+présentation de la formation
+présentation de la progression
+
+••••••• Conception et animation d'une séance
+Présentation générale de l'AF
+Préparation de la séquence de f
+Cadre et contraintes spécifiques à l'AF
+Conception de la séquence de F
+Évaluation diagnostique
+Conception de la séance de technologie
+Animation de la séance de technologie
+Séance d'atelier n°1
+Séance d'atelier n°2
+tin de l'AF
+évaluations formative
+
+••••••• Accompagner un apprenant
+Contexte
+Accompagnement
+Bilna de l'accompagnement individuel
+
+••••••• Analyser ses pratiques professionnelles
+Analyse de la séquence
+Analyse des séances
+Bilan
+
+
+•••••••••••••• Chapitre 1
+
+*****************Introduction
+°°°°°°°° Démarche personnelle
+- Contexte
+Issu d'un parcours pluridisciplinaire entre, design, numérisation
+, développement web, écologie et électronique basse tension, j'ai développé des activités mélant théorie, pratique, médiation et formation dans divers domaines liés à la notion de numérisation des processes.
+
+Ces dernières années, j'ai développé une formation sur la microsoudure, ce qui permet de réparer des téléphones mobiles dans ça totalité à l'exception des puces encodées(NAND flash, CPU et l'EEPROM) par les constructeurs qui ne sont pas remplacablent sans l'utilisation de leurs logiciels construit en interne et garder secret.
+je suis principalement intervenu comme formateur pour mon compte en tant que micro entreprise en association avec un centre de formation, situé à Créteil, spécialisé dans les langues vivantes.
+
+Dans le cadre de mon premier stage, j’ai conceptualisé une AF, en m’appuyant sur mes compétences transversales numériques. À ce titre, j’ai proposé à ma tutrice une formation sur l’utilisation de formulaire dynamique, avec pour ogjectif d’évaluer les apprenants de l'INFREP, tout au long de leurs formations avec l'utilisation massive d'outils numériques et de numérisé les processes d'évaluations.
+Le deuxième aspect est une demande sur le design des questionnaires / quiz et l'utilisation de l'API de Google. L'intégration sur une application métier interne.
+
+L'aspect, d'analyse et d'intégration des outils numériques est pris en compte.
+
+J’ai formalisé une offre de formation, il y’a eu plusieurs retours entre ma tutrice, la directrice et moi, j’ai orienté le client vers trois propositions, toutes acceptés :
+- Élaborer un formulaire de satisfaction à mi-parcours, pour évaluer les besoins en formations des apprenants
+- Élaborer un formulaire d’invitation, et un formulaire pour permettre d'évaluer les préacquis
+- Créer un formulaire en forme de questionnaire(quiz) pour évaluer les acquis, après la formation, cela  permets de valider les acquis en situation de travail.
+
+En fin de formation, j’ai délivré une attestation de formation à tous les apprenants, dont un exemple se trouve sur mon serveur web : https://academie-reparation.com/dl/attestation-de-reussite.pdf
+
+Finalement, j’ai préparé un quiz en forme d’évaluation normée, 3 jours après la formation pour évaluer les acquis en situation de travail et mesuré les progrès entre l'entrée en formation et après la formation.
+Très utile pour vérifier l'application et la mise en application de l'AF.
+
