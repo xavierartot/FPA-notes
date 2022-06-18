@@ -1,10 +1,8 @@
 
 *** titre comparaison
 titre
-1 -> Bac +
-2 -> Bac +
-3 -> Bac + CAP/BEP
-4 -> Bac + BAC
-5 -> Bac + Bac + 2
-6 -> Bac +
-7 -> Bac +
+niveau 3 -> anciennement V -> Bac + CAP/BEP
+niveau 4 -> anciennement IV -> Bac + BAC
+niveau 5 -> anciennement V + Bac +2
+niveau 6 -> anciennement II -> Bac +4, maitrise, master
+niveau 7 -> anciennement I -> Bac +5, master
